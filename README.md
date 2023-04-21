@@ -15,6 +15,19 @@ The website includes several key features, including:
 - A smooth-scrolling feature that animates scrolling between sections
 - Interactive elements such as buttons and hover effects
 
+## Screenshots
+
+Here are some screenshots of the Omnifood website:
+
+![Homepage](img/screenshots/homepage.png "Homepage")
+*The homepage of the Omnifood website*
+
+![Meals](img/screenshots/meals.png "Meals")
+*The meals section of the Omnifood website*
+
+![CTA](img/screenshots/cta.png "CTA")
+*The CTA section of the Omnifood website*
+
 ## Installation
 
 To run the Omnifood project locally, follow these steps:
