@@ -2,6 +2,14 @@
 
 This project is based on the "Build Responsive Real World Websites with HTML5 and CSS3" course by Jonas Schmedtmann. It is a website for a fictional food delivery service called Omnifood.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Functionality](#functionality)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Acknowledgments](#acknowledgments)
+
 ## Project Overview
 
 The Omnifood website is designed to be responsive and accessible on a range of devices, from desktop computers to mobile phones. It features a clean and modern design, with bold typography and high-quality images.
